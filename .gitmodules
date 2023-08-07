@@ -1,9 +1,3 @@
 [submodule "lib/forge-std"]
 	path = lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
-[submodule "lib/v2-core"]
-	path = lib/v2-core
-	url = https://github.com/sablier-labs/v2-core
-[submodule "lib/juice-contracts-v3"]
-	path = lib/juice-contracts-v3
-	url = https://github.com/jbx-protocol/juice-contracts-v3
